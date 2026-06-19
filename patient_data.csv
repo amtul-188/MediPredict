@@ -1,0 +1,11 @@
+Patient_ID,Age,Gender,Blood_Pressure,Cholesterol,Diabetes,Hospital_Stay_Days,Previous_Admissions,Readmitted
+1,65,Male,145,220,1,7,3,1
+2,40,Female,120,180,0,3,0,0
+3,72,Male,160,250,1,10,4,1
+4,35,Female,118,175,0,2,0,0
+5,55,Male,138,210,1,6,2,1
+6,48,Female,125,190,0,4,1,0
+7,68,Male,150,240,1,8,3,1
+8,32,Female,115,170,0,2,0,0
+9,59,Male,142,215,1,6,2,1
+10,45,Female,122,185,0,3,1,0
