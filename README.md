@@ -18,15 +18,14 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
 
 ## 📊 Visualizations Included
 
- Age Distribution
- Gender Distribution
- Diabetes Analysis
- Blood Pressure Distribution
- Cholesterol Distribution
- Readmission Count
- Correlation Heatmap
- Feature Importance Analysis
- Confusion Matrix
+ Age Distribution,
+ Gender Distribution,
+ Diabetes Analysis,
+ Blood Pressure Distribution,
+ Cholesterol Distribution,
+ Readmission Count,
+ Correlation Heatmap,
+ Feature Importance Analysis, Confusion Matrix
 
 ## 🎯 Outcome
 
